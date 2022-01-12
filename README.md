@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 -->
   
   
+  &nbsp;<p> This week: </p>
+  
+  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Ahmed_07&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+
 <p align="left">
 </p>
 
@@ -35,6 +40,6 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abalamsh&show_icons=true&locale=en" alt="abalamsh" /></p> 
-<a href="https://github.com/abalamsh/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abalamsh&layout=compact&theme=buefy&hide_border=true" /></a> 
 
+| <img align="left" src="https://github-readme-stats.vercel.app/api?username=abalamsh&show_icons=true&locale=en" alt="abalamsh" /> | <a href="https://github.com/abalamsh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abalamsh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
