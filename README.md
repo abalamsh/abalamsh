@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 
 
-| <img align="left" src="https://github-readme-stats.vercel.app/api?username=abalamsh&show_icons=true&locale=en" alt="abalamsh" /> | <a href="https://github.com/abalamsh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abalamsh&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- | <img align="left" src="https://github-readme-stats.vercel.app/api?username=abalamsh&show_icons=true&locale=en" alt="abalamsh" /> | <a href="https://github.com/abalamsh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abalamsh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
